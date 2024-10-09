@@ -1,1 +1,1 @@
-"Esto es un nuevo fichero"
+"Esto es un nuevo fichero, y esta es una linea sin errores"
